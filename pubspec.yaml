@@ -1,5 +1,5 @@
-name: meu_app
-description: Aplicativo Flutter
+name: remedio_em_dia
+description: Aplicativo para gerenciamento de medicamentos para idosos.
 publish_to: 'none'
 version: 1.0.0+1
 
@@ -10,6 +10,9 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.8
+  share_plus: ^10.1.4
+  screenshot: ^3.0.0
+  path_provider: ^2.1.5
 
 dev_dependencies:
   flutter_test:
